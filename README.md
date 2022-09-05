@@ -24,7 +24,7 @@ The project is live on Netlify, you can try out the different breakpoints 😉
 
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/92106ca8-0161-4348-b1b2-84402a1a6f09/deploy-status)](https://app.netlify.com/sites/integration-html-part2/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/560e265e-8d51-4114-b913-e5a9057028a2/deploy-status)](https://app.netlify.com/sites/integration-html-part3/deploys)
 
 ## Tech Stack ⚒️
 
